@@ -1,1 +1,1 @@
-Site de notícias projeto em colaboração.
+# Projeto Site de Noticias em Parceria
